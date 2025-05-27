@@ -1,0 +1,111 @@
+- title: "A Multimodal Chain of Tools for Described Object Detection"
+  year: 2024
+  authors: Kwanyong Park, Youngwan Lee, Yong-Ju Lee
+  venue: NeurIPS 2024 Workshop
+  link: https://openreview.net/pdf?id=N4i4PfcrK6
+
+- title: "KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis"
+  year: 2024
+  authors: Youngwan Lee, Kwanyong Park, Yoorhim Cho, Yong-Ju Lee, Sung Ju Hwang
+  venue: <b>NeurIPS 2024</b>
+  link: https://openreview.net/pdf?id=KNDUBpWV9b
+  award: |-
+    Media coverage\: covered by <a href="https://www.ytn.co.kr/_ln/0106_202402040423528132" target="_blank" class="award-link">YTN</a>, 
+    <a href="https://www.yna.co.kr/view/AKR20240126075300063" target="_blank" class="award-link">Yonhap News</a>, 
+    <a href="https://www.aitimes.kr/news/articleView.html?idxno=30153" target="_blank" class="award-link">AI Times</a>, and many local media
+
+- title: "Weak-to-Strong Compositional Learning from Generative Models for Language-based Object Detection"
+  year: 2024
+  authors: Kwanyong Park, Kuniaki Saito, Donghyun Kim
+  venue: <b>ECCV 2024</b>
+  link: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03307.pdf
+  award: 3rd place in the OmniLabel Challenge @ ECCV2024
+
+- title: "MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark"
+  year: 2024
+  authors: Sanghyun Woo\*, Kwanyong Park\*, Inkyu Shin\*, Myungchul Kim\*, In So Kweon (\* equal contribution)
+  venue: <b>CVPR 2024</b>
+  link: https://openaccess.thecvf.com/content/CVPR2024/papers/Woo_MTMMC_A_Large-Scale_Real-World_Multi-Modal_Camera_Tracking_Benchmark_CVPR_2024_paper.pdf
+
+- title: "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge Management"
+  year: 2024
+  authors: Junha Song, Kwanyong Park, Inkyu Shin, Sanghyun Woo, Chaoning Zhang, and In So Kweon
+  venue: RA-L and ICRA 2024
+  link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10227541
+
+- title: "Joint Self-supervised Learning and Adversarial Adaptation for Monocular Depth Depth Estimation from Thermal Image"
+  year: 2023
+  authors: Ukcheol Shin, Kwanyong Park, Byeong-Uk Lee, Kyunghyun Lee, In So Kweon
+  venue: Machine Vision and Applications (MVA)
+  link: https://link.springer.com/article/10.1007/s00138-023-01404-3
+
+- title: "Mask-guided Matting in the Wild"
+  year: 2023
+  authors: Kwanyong Park, Sanghyun Woo, Seoung Wug Oh, In So Kweon, Joon-Young Lee
+  venue: <b>CVPR 2023</b>
+  link: https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Mask-Guided_Matting_in_the_Wild_CVPR_2023_paper.pdf
+
+- title: "Bidirectional Domain Mixup for Domain Adaptive Semantic Segmentation"
+  year: 2023
+  authors: Daehan Kim\*, Minseok Seo\*, Kwanyong Park, Inkyu Shin, Sanghyun Woo, In So Kweon, Dong-Geol Choi (\* equal contribution)
+  venue: <b>AAAI 2023</b>
+  link: https://ojs.aaai.org/index.php/AAAI/article/view/25193
+  oral: 1
+
+- title: "Learning Classifiers of Prototypes and Reciprocal Points for Universal Domain Adaptation"
+  year: 2023
+  authors: Sungsu Hur, Inkyu Shin, Kwanyong Park, Sanghyun Woo, In So Kweon
+  venue: WACV 2023
+  link: https://openaccess.thecvf.com/content/WACV2023/papers/Hur_Learning_Classifiers_of_Prototypes_and_Reciprocal_Points_for_Universal_Domain_WACV_2023_paper.pdf
+
+- title: "Self-supervised Monocular Depth Estimation from Thermal Images via Adversarial Multi-spectral Adaptation"
+  year: 2023
+  authors: Ukcheol Shin, Kwanyong Park, Byeong-Uk Lee, Kyunghyun Lee, In So Kweon
+  venue: WACV 2023
+  link: https://openaccess.thecvf.com/content/WACV2023/papers/Shin_Self-Supervised_Monocular_Depth_Estimation_From_Thermal_Images_via_Adversarial_Multi-Spectral_WACV_2023_paper.pdf
+  award: Best Student Paper Award in WACV 2023
+
+- title: "Bridging Images and Videos: A Simple Learning Framework for Large Vocabulary Video Object Detection"
+  year: 2022
+  authors: Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee
+  venue: <b>ECCV 2022</b>
+  link: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850235.pdf
+
+- title: "Tracking by Associating Clips"
+  year: 2022
+  authors: Sanghyun Woo, Kwanyong Park, Seoung Wug Oh, In So Kweon, Joon-Young Lee
+  venue: <b>ECCV 2022</b>
+  link: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850126.pdf
+
+- title: "Per-Clip Video Object Segmentation"
+  year: 2022
+  authors: Kwanyong Park, Sanghyun Woo, Seoung Wug Oh, In So Kweon, Joon-Young Lee
+  venue: <b>CVPR 2022</b>
+  link: https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Per-Clip_Video_Object_Segmentation_CVPR_2022_paper.pdf
+
+- title: "LabOR: Labeling Only if Required for Domain Adaptive Semantic Segmentation"
+  year: 2021
+  authors: Inkyu Shin, Dong-Jin Kim, Jae Won Cho, Sanghyun Woo, Kwanyong Park, In So Kweon
+  venue: <b>ICCV 2021</b>
+  link: https://openaccess.thecvf.com/content/ICCV2021/papers/Shin_LabOR_Labeling_Only_if_Required_for_Domain_Adaptive_Semantic_Segmentation_ICCV_2021_paper.pdf
+  award: Qualcomm Innovation Award 2021
+  oral: 1
+
+- title: "Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation"
+  year: 2020
+  authors: Kwanyong Park, Sanghyun Woo, Inkyu Shin, In So Kweon
+  venue: <b>NeurIPS 2020</b>
+  link: https://proceedings.neurips.cc/paper/2020/file/7a9a322cbe0d06a98667fdc5160dc6f8-Paper.pdf
+  award: Qualcomm Innovation Award 2021
+
+- title: "Align-and-Attend Network for Globally and Locally Coherent Video Inpainting"
+  year: 2020
+  authors: Sanghyun Woo, Dahun Kim, Kwanyong Park, Joon-Young Lee, In So Kweon
+  venue: BMVC 2020
+  link: https://www.bmvc2020-conference.com/assets/papers/0440.pdf
+
+- title: "Preserving Semantic and Temporal Consistency for Unpaired Video-to-Video Translation"
+  year: 2019
+  authors: Kwanyong Park, Sanghyun Woo, Dahun Kim, Donghyeon Cho, In So Kweon
+  venue: ACM MM 2019
+  link: https://dl.acm.org/doi/pdf/10.1145/3343031.3350864

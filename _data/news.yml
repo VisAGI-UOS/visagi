@@ -1,0 +1,54 @@
+- img: welcome.png
+  year: 2025
+  month: May
+  category: New Members
+  description: "Juhyun Park joined our lab as an undergraduate intern. Welcome!"
+
+- img: msit.svg
+  year: 2025
+  month: Apr
+  category: Research Grant
+  description: "Our lab will be **supported with high-performance computing resources (H100)** by the Ministry of Science and ICT this year."
+
+- img: logo_yonsei.jpeg
+  year: 2025
+  month: Mar
+  category: Invited Talk
+  description: "Prof. Park was invited to give a talk on 'A Data-Centric Perspective on Vision-Centered AI' at **Yonsei University**."
+
+- img: tech_transfer.png
+  year: 2025
+  month: Mar
+  category: Technology Transfer
+  description: "Our KOALA model has been **successfully transferred to a gaming startup** to support their game development."
+
+- img: welcome.png
+  year: 2025
+  month: Mar
+  category: New Members
+  description: "Dohyun Kim and Wonjun Heo joined our lab as undergraduate interns. Welcome!"
+
+- img: logo_uos.png
+  year: 2025
+  month: Mar
+  category: Lab News
+  description: "**The Visual & General Intelligence Lab.** has been newly established at the University of Seoul."
+
+- img: omnilabel_logo.png
+  year: 2024
+  month: Oct
+  category: Award
+  description: "Our team won **third place in the OmniLabel Challenge at ECCV 2024**, following a joint team from Meta and Google."
+
+- img: neurips.svg
+  year: 2024
+  month: Sep
+  category: Publication
+  description: "Our paper on KOALA, a fast and memory-efficient diffusion model, was accepted to **NeurIPS 2024**."
+
+
+- img: eccv2024.svg
+  year: 2024
+  month: Jul
+  category: Publication
+  description: "Our paper on language-based object detection was accepted to **ECCV 2024**."

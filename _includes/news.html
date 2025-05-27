@@ -1,0 +1,56 @@
+<!-- <div class="well" style="padding: 10px 10px 10px 10px;">
+<h4 style="margin-top: 0px;">Latest News</h4>
+
+{% assign number_printed = 0 %}
+{% for article in site.data.news limit:8 %}
+
+<div class="row" style="margin-bottom: 10px;">
+  <div class="col-sm-12">
+    <p style="margin-bottom: 0px;">
+      <span style="color: black;">[{{ article.year }}.{{ article.month | prepend: '0' | slice: -2, 2 }}]{{ article.description | markdownify}}</span>
+    </p>
+  </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% endfor %}
+
+<div class="row">
+  <div class="col-sm-12">
+    <span><a href="{{ site.url }}{{ site.baseurl }}/allnews.html" style="float: right;">... see all News</a></span>
+  </div>
+</div>
+</div> -->
+
+<div class="well" style="padding: 10px;">
+    <h4 style="margin-top:0;color: #005EB8;font-weight: bold;">Latest News</h4>
+  
+    {% assign number_printed = 0 %}
+    {% for article in site.data.news limit:8 %}
+  
+    <div class="row" style="margin-bottom:10px;">
+      <div class="col-sm-12">
+        <p style="margin-bottom:0;">
+          <span style="color:black;">
+            <!-- [{{ article.year }}.{{ article.month | prepend: '0' | slice: -2, 2 }}] -->
+            [{{ article.month }}. {{ article.year }}]
+          </span>
+          {{ article.description
+             | markdownify          # 마크다운 변환
+             | replace: '<p>', ''   # 앞쪽 <p> 제거
+             | replace: '</p>', ''  # 뒤쪽 </p> 제거
+             | strip                # 앞·뒤 공백 제거
+          }}
+        </p>
+      </div>
+    </div>
+  
+    {% assign number_printed = number_printed | plus: 1 %}
+    {% endfor %}
+  
+    <div class="row">
+      <div class="col-sm-12">
+        <span><a href="{{ site.url }}{{ site.baseurl }}/allnews.html" style="float:right;color: #004094;">... see all News</a></span>
+      </div>
+    </div>
