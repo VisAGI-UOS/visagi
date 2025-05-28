@@ -5,22 +5,9 @@ sitemap: false
 permalink: /joining_us/
 ---
 
-<style>
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+<h3>**연구실 소개 및 연구 분야**</h3>
 
-.korean-text {
-    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
-}
-
-h3.korean-text {
-    font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
-    font-weight: 600;
-}
-</style>
-
-<h3 class="korean-text">연구실 소개 및 연구 분야</h3>
-
-<div class="well korean-text" style="padding: 20px; margin-bottom: 30px; box-shadow: none;">
+<div class="well" style="padding: 20px; margin-bottom: 30px; box-shadow: none;">
 <p style="margin-bottom: 20px;">
 우리 연구실은 인공지능 분야 세계 최고 수준의 학술대회 (Top-tier AI conferences) 및 이에 준하는 저널에 연구 성과를 발표하는 것을 최우선 목표로 하고 있습니다. 주요 목표 학회는 다음과 같습니다:
 </p>
@@ -53,9 +40,9 @@ h3.korean-text {
 </p>
 </div>
 
-<h3 class="korean-text">연구실 지원 안내</h3>
+<h3>**연구실 지원 안내**</h3>
 
-<div class="well korean-text" style="padding: 20px; margin-bottom: 30px; box-shadow: none;">
+<div class="well" style="padding: 20px; margin-bottom: 30px; box-shadow: none;">
 <p style="margin-bottom: 20px;">
 현재 대학원생 및 학부연구생을 모집 중입니다. 연구실 지원 또는 사전 면담을 희망하시는 분은 아래 내용을 포함하여 <b>kwanyong.park [at] uos.ac.kr</b>로 연락 부탁드립니다:
 </p>

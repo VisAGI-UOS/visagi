@@ -19,9 +19,9 @@ permalink: /members/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left; margin-top: 10px;" />
   {% if member.homepage != null %}
-  <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
+  <span class="member_name"><a href="{{ member.homepage }}" target="_blank" style="color: #005EB8;">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
   {% else %}
-  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
+  <span class="member_name"><a style="color: #005EB8;">**{{ member.name }}**</a></span><br/>
   {% endif %}
   <span class="position" style="font-style: italic;">{{ member.position }}</span><br/>
   <span class="email" style="color: #888;">{{ member.email }}</span> 
@@ -57,9 +57,9 @@ permalink: /members/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left; margin-top: 10px; " />
   {% if member.homepage != null %}
-  <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
+  <span class="member_name"><a href="{{ member.homepage }}" target="_blank" style="color: #005EB8;">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
   {% else %}
-  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
+  <span class="member_name"><a style="color: #005EB8;">**{{ member.name }}**</a></span><br/>
   {% endif %}
   {% if member.email != null %}
   <span class="email" style="color: #888;">{{ member.email }}</span> <br/>
@@ -102,9 +102,9 @@ permalink: /members/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left; margin-top: 10px; " />
   {% if member.homepage != null %}
-  <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
+  <span class="member_name"><a href="{{ member.homepage }}" target="_blank" style="color: #005EB8;">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
   {% else %}
-  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
+  <span class="member_name"><a style="color: #005EB8;">**{{ member.name }}**</a></span><br/>
   {% endif %}
   {% if member.email != null %}
   <span class="email" style="color: #888;">{{ member.email }}</span> <br/>
@@ -147,9 +147,9 @@ permalink: /members/
 <div class="col-sm-3 clearfix">
   <p style="margin-bottom: 3px;">
   {% if member.homepage != null %}
-  <span class="member_name"><a href="{{ member.homepage }}" target="_blank">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
+  <span class="member_name"><a href="{{ member.homepage }}" target="_blank" style="color: #005EB8;">**{{ member.name }}**<span class="icon-link"></span></a></span><br/>
   {% else %}
-  <span class="member_name"><a>**{{ member.name }}**</a></span><br/>
+  <span class="member_name"><a style="color: #005EB8;">**{{ member.name }}**</a></span><br/>
   {% endif %}
   </p>
   <span class="degree_year" style="font-style: italic;">{{ member.degree }}, {{ member.year }}</span><br/>
