@@ -11,10 +11,10 @@ title: Visual & General Intelligence Laboratory
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of VisAGI.
-# baseurl: "/visagi"
-# url: "https://visagi-uos.github.io"
-baseurl: ""
-url: "https://visagi.uos.ac.kr/"
+baseurl: "/visagi"
+url: "https://visagi-uos.github.io"
+# baseurl: ""
+# url: "https://visagi.uos.ac.kr/"
 
 include:
   - .htaccess
