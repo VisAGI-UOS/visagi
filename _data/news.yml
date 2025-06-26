@@ -1,3 +1,15 @@
+- img: iccv2025.svg
+  year: 2024
+  month: Jun
+  category: Publication
+  description: "Our paper on flexibly controllable image captioning has been accepted to **ICCV 2025**."
+
+- img: welcome.png
+  year: 2025
+  month: Jun
+  category: New Members
+  description: "Junyong Lhim joined our lab as an undergraduate intern. Welcome!"
+
 - img: welcome.png
   year: 2025
   month: May
@@ -44,11 +56,11 @@
   year: 2024
   month: Sep
   category: Publication
-  description: "Our paper on KOALA, a fast and memory-efficient diffusion model, was accepted to **NeurIPS 2024**."
+  description: "Our paper on KOALA, a fast and memory-efficient diffusion model, has been accepted to **NeurIPS 2024**."
 
 
 - img: eccv2024.svg
   year: 2024
   month: Jul
   category: Publication
-  description: "Our paper on language-based object detection was accepted to **ECCV 2024**."
+  description: "Our paper on language-based object detection has been accepted to **ECCV 2024**."

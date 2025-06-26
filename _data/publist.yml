@@ -1,3 +1,14 @@
+- title: "CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning"
+  year: 2025
+  authors: Kuniaki Saito, Donghyun Kim, Kwanyong Park, Atsushi Hashimoto, Yoshitaka Ushiku
+  venue: <b>ICCV 2025</b>
+
+- title: "HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model"
+  year: 2025
+  authors: Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
+  venue: arXiv
+  link: https://www.arxiv.org/pdf/2506.04704
+
 - title: "A Multimodal Chain of Tools for Described Object Detection"
   year: 2024
   authors: Kwanyong Park, Youngwan Lee, Yong-Ju Lee
