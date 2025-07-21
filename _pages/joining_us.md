@@ -54,9 +54,4 @@ permalink: /joining_us/
   <li style="margin-bottom: 10px;">• 면담 가능 시간</li>
 </ul>
 
-<!-- <div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; margin-top: 20px;">
-<!-- <p style="margin-bottom: 0; color: #005EB8;">
-<b>[2025년 6월 기준] 2025년 여름방학 기간 동안 함께할 학부 연구생 1~2명을 추가 모집합니다. 관심 있는 분들의 많은 지원 바랍니다.</b>
-</p> -->
-</div> -->
 </div>
