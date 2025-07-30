@@ -1,7 +1,19 @@
+- title: "Learning Compositionality from Multifaceted Synthetic Data for Language-based Object Detection"
+  year: 2025
+  authors: Kwanyong Park, Sojung An, Yong Jae Lee, Donghyun Kim
+  venue: <b>International Journal of Computer Vision (IJCV) 2025</b>
+
 - title: "CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning"
   year: 2025
   authors: Kuniaki Saito, Donghyun Kim, Kwanyong Park, Atsushi Hashimoto, Yoshitaka Ushiku
   venue: <b>ICCV 2025</b>
+  link: https://arxiv.org/abs/2507.01409
+  highlight: 1
+
+- title: "Hierarchical Entailment Representations for Linguistic Compositionality in Language-based Object Detection"
+  year: 2025
+  authors: Sojung An, Kwanyong Park, Yong Jae Lee, Donghyun Kim
+  venue: <b>ICCV 2025 Workshop</b>
 
 - title: "HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model"
   year: 2025

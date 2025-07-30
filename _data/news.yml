@@ -1,8 +1,14 @@
+- img: IJCV-logo.png
+  year: 2025
+  month: Jul
+  category: Publication
+  description: "Our paper on language-based object detection has been accepted to **IJCV 2025** (Q1, JCR: Top 3.3%)."
+
 - img: iccv2025.svg
   year: 2025
   month: Jun
   category: Publication
-  description: "Our paper on flexibly controllable image captioning has been accepted to **ICCV 2025**."
+  description: "Our paper on flexibly controllable image captioning has been accepted to **ICCV 2025 as a Highlight paper**🌟 (acceptance rate: 2.98%)."
 
 - img: welcome.png
   year: 2025
