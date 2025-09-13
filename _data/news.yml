@@ -1,3 +1,15 @@
+- img: welcome.png
+  year: 2025
+  month: Sep
+  category: New Members
+  description: "Donghyeop Woo joined our lab as an undergraduate intern. Welcome!"
+
+- img: iccv2025.svg
+  year: 2025
+  month: Sep
+  category: Publication
+  description: "Two papers on vision-language models has been accepted to ICCV 2025 Workshop."
+
 - img: etri_gachon.png
   year: 2025
   month: Aug

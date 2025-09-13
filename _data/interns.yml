@@ -6,7 +6,7 @@
 - name: Wonjun Heo
   photo: heo.jpg
   email: heodnjswns40
-  interests: Multimodal Learning, Reasoning
+  interests: Agentic AI, Multimodal Reasoning
 
 - name: Juhyun Park
   photo: jup.jpg
@@ -17,3 +17,7 @@
   photo: jun.jpg
   email: lhimjy1105
   interests: Computer Vision, Multimodal Learning
+
+- name: Donghyeop Woo
+  photo: dong.jpg
+  interests: Agentic AI, Multimodal Learning

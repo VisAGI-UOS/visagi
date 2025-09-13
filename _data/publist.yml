@@ -11,6 +11,11 @@
   link: https://arxiv.org/abs/2507.01409
   highlight: 1
 
+- title: "Enhancing Region-Level Reasoning in Vision-Language Models with Complementary Visual Focus"
+  year: 2025
+  authors: Soojin Jang, Kwanyong Park, Ilchae Jung, Yong-Ju Lee
+  venue: ICCV 2025 Workshop
+
 - title: "Hierarchical Entailment Representations for Linguistic Compositionality in Language-based Object Detection"
   year: 2025
   authors: Sojung An, Kwanyong Park, Yong Jae Lee, Donghyun Kim
