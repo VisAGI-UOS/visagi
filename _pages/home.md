@@ -40,6 +40,7 @@ Our current research interests include, but are not limited to, the following ar
 - **Robust Visual Perception Models**: Designing models that can accurately perceive and interpret visual data (e.g, image/video/3D), even under challenging conditions.
 - **Multimodal Generative Models**: Exploring state-of-the-art generative models, including diffusion models and multimodal large language models, that can generate, understand, and reason across multiple modalities.
 - **Data-Centric AI**: Developing methodologies that emphasize the strategic collection, curation, and utilization of data, which we see as essential for the next generation of AI breakthroughs.
+- **Agentic AI**: Building autonomous agents capable of multi-step reasoning, long-term planning, and tool-augmented execution to solve complex tasks.
 
 Through these research directions, we strive to take meaningful steps toward realizing Artificial General Intelligence.
 

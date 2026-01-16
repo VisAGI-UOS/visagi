@@ -1,4 +1,16 @@
 - img: welcome.png
+  year: 2026
+  month: Jan
+  category: New Members
+  description: "Chaeyun Park joined our lab as an undergraduate intern. Welcome!"
+
+- img: KAIST_logo.jpg
+  year: 2025
+  month: Dec
+  category: Invited Talk
+  description: "Prof. Park was invited to give a talk at **KAIST**."
+
+- img: welcome.png
   year: 2025
   month: Sep
   category: New Members

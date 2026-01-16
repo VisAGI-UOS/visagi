@@ -1,7 +1,7 @@
-- name: Dohyun Kim
-  photo: doh.jpg
-  email: kdoh04034
-  interests: Multimodal Learning, Personalization
+# - name: Dohyun Kim
+#   photo: doh.jpg
+#   email: kdoh04034
+#   interests: Multimodal Learning, Personalization
 
 - name: Wonjun Heo
   photo: heo.jpg
@@ -21,3 +21,8 @@
 - name: Donghyeop Woo
   photo: dong.jpg
   interests: Agentic AI, Multimodal Learning
+
+- name: Chaeyun Park
+  photo: cha.jpg
+  email: chyun0421
+  interests: Computer Vision, Multimodal Reasoning
