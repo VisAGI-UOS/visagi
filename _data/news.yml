@@ -1,3 +1,9 @@
+- img: cvpr_2026.jpg
+  year: 2026
+  month: Feb
+  category: Publication
+  description: "Our paper on safety of vision-language models has been accepted to **CVPR 2026 (Findings)**."
+
 - img: welcome.png
   year: 2026
   month: Jan
