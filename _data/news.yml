@@ -1,3 +1,15 @@
+- img: nrf.svg
+  year: 2026
+  month: Mar
+  category: Research Grant
+  description: "Our lab has been selected for the Young Scientist Grant from the National Research Foundation of Korea (NRF), supporting our research on 'Agentic AI' and 'Self-evolving Multimodal AI.'"
+
+- img: welcome.png
+  year: 2026
+  month: Mar
+  category: New Members
+  description: "TaeYang Jeong joined our lab as anundergraduate intern. Welcome!"
+
 - img: cvpr_2026.jpg
   year: 2026
   month: Feb
