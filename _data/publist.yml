@@ -2,7 +2,18 @@
   year: 2026
   authors: Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilchae Jung, Sujin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   venue: <b>CVPR 2026 (Findings)</b>
-  link: https://www.arxiv.org/pdf/2506.04704
+  link: https://arxiv.org/abs/2506.04704
+
+- title: "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"
+  year: 2026
+  authors: Myungchul Kim, Kwanyong Park, Junmo Kim, In So Kweon
+  venue: CVPR 2026 Workshop
+
+- title: "Streamlining Human–Robot Interaction: Integrating LLM-Based Planning into Modular Robotic Frameworks"
+  year: 2026
+  authors: MinHyuk Kim, JooHee Park, Kwanyong Park, Yong-Ju Lee, Sanghun Jeon
+  venue: Sensors
+  # link: https://www.mdpi.com/1424-8220/26/6/1978
 
 - title: "Learning Compositionality from Multifaceted Synthetic Data for Language-based Object Detection"
   year: 2025
