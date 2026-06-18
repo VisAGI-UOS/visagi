@@ -1,3 +1,16 @@
+- img: eccv_2026.jpg
+  year: 2026
+  month: Jun
+  category: Publication
+  description: "Our paper on agentic multi-camera person search has been accepted to **ECCV 2026**."
+
+- img: etri.png
+  year: 2026
+  month: April
+  category: Research Grant
+  description: "We have launched a research project on 'Vision-Language-Action Models for Digital Environments (e.g., GUI)', with support from ETRI.'"
+
+
 - img: nrf.svg
   year: 2026
   month: Mar
