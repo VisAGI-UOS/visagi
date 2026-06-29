@@ -1,6 +1,6 @@
 - title: "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"
   year: 2026
-  authors: Myungchul Kim, Kwanyong Park, Junmo Kim, In So Kweon
+  authors: Myungchul Kim, Kwanyong Park†, Junmo Kim†, In So Kweon† († corresponding authors)
   venue: <b>ECCV 2026</b>
 
 - title: "HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model"
@@ -9,10 +9,10 @@
   venue: <b>CVPR 2026 (Findings)</b>
   link: https://arxiv.org/abs/2506.04704
 
-# - title: "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"
-#   year: 2026
-#   authors: Myungchul Kim, Kwanyong Park, Junmo Kim, In So Kweon
-#   venue: CVPR 2026 Workshop
+- title: "Benchmarking Multimodal Personalized Reasoning of Vision-Language Models in the Wild"
+  year: 2026
+  authors: Dohyun Kim, Junyong Lhim, Kwanyong Park
+  venue: ICML 2026 Workshop
 
 - title: "Streamlining Human–Robot Interaction: Integrating LLM-Based Planning into Modular Robotic Frameworks"
   year: 2026

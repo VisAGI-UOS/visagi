@@ -70,6 +70,7 @@ permalink: /members/
   {% else %}
   <span class="interests" style="font-style: italic;">{{ member.interests }}</span>
   {% endif %}
+  <span class="position" style="font-style: italic;">{{ member.position }}</span><br/>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
