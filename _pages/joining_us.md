@@ -22,21 +22,29 @@ permalink: /joining_us/
 </div>
 
 <p style="margin-bottom: 20px;">
-지금까지 수행했거나 현재 진행 중인 연구 분야는 다음과 같은 키워드로 요약할 수 있으며, 이와 유사한 주제에 관심 있는 (예비)연구자 여러분의 많은 지원을 환영합니다.
+Computer Vision, Multimodal AI, Agentic & Embodied AI 분야를 중심으로 연구하고 있습니다. 
+특히 시각, 언어, 행동 및 다양한 모달리티를 통합적으로 이해하고 생성하며, 실제 문제 해결로 이어질 수 있는 인공지능 기술에 관심을 두고 있습니다.
+현재 연구실 구성원들과 함께 관심을 가지고 진행 중인 연구 분야는 다음과 같은 키워드로 요약할 수 있습니다.
 </p>
 
 <div style="margin-bottom: 20px;">
 <h4 style="color: #005EB8; margin-bottom: 15px;">**주요 연구 분야**</h4>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li style="margin-bottom: 10px;">• <b>Visual Recognition</b>: Image/Video Object Detection, Segmentation, Matting</li>
+  <li style="margin-bottom: 10px;">• <b>Multimodal AI Core</b>: Multimodal Large Language Models, Unified Multimodal Models, Text-to-Image/Video Generation Models</li>
+  <li style="margin-bottom: 10px;">• <b>Multimodal AI Enhancement</b>: Multimodal Reasoning, Personalization, Efficiency</li>
+  <li style="margin-bottom: 10px;">• <b>Agentic & Physical AI</b>: Vision-Language-Action Models, World Models, Web/GUI Agents, Embodied AI</li>
+  <!-- <li style="margin-bottom: 10px;">• <b>Visual Recognition</b>: Image/Video Object Detection, Segmentation, Matting</li>
   <li style="margin-bottom: 10px;">• <b>Multimodal AI</b>: Vision-Language, Multispectral (RGB/IR), Multisensory Model</li>
   <li style="margin-bottom: 10px;">• <b>Generative AI</b>: Text-to-Image/Video Diffusion model, Multimodal Large Language Model, Image/Video Editing</li>
-  <li style="margin-bottom: 10px;">• <b>Data-Centric AI</b>: Effective Data Collection/Generation/Curation, Data-efficient Learning (Domain Adaptation, Generalization)</li>
+  <li style="margin-bottom: 10px;">• <b>Data-Centric AI</b>: Effective Data Collection/Generation/Curation, Data-efficient Learning (Domain Adaptation, Generalization)</li> -->
 </ul>
 </div>
 
 <p>
-이외에도 Agentic AI, Physical AI 등 최근 새롭게 부상하는 인공지능 분야에 대한 도전을 적극 장려하며, 다양한 주제의 연구를 원활히 수행할 수 있도록 멘토링과 지원을 제공하고자 합니다.
+<!-- 이외에도 Agentic AI, Physical AI 등 최근 새롭게 부상하는 인공지능 분야에 대한 도전을 적극 장려하며, 다양한 주제의 연구를 원활히 수행할 수 있도록 멘토링과 지원을 제공하고자 합니다. -->
+이외에도 최근 새롭게 부상하는 인공지능 분야에 대한 도전을 적극 장려합니다. 
+모든 구성원이 유의미한 연구 성과를 도출할 수 있도록 함께 고민하고 지도하며, 협력을 통해 다양한 성장 기회를 제공하고 있습니다.
+유사한 주제에 관심이 있고 함께 성장하고자 하는 예비 연구자 여러분의 많은 지원을 환영합니다.
 </p>
 </div>
 

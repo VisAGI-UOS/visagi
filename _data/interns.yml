@@ -21,19 +21,19 @@
 
 - name: Donghyeop Woo
   photo: dong.jpg
-  interests: Agentic AI, Multimodal Learning
+  interests: Vision-Language-Action Model, Web Agent
 
 - name: Chaeyun Park
   photo: cha.jpg
   email: chyun0421
-  interests: Computer Vision, Multimodal Reasoning
+  interests: Multimodal Reasoning, Hallucination, Grounding
 
 - name: Hyunjun Cho
   photo: hyun.jpg
   email: hjhj6411
-  interests: Multimodal Reasoning
+  interests: Multimodal Reasoning, Personalization
 
 - name: TaeYang Jeong
   photo: tae.jpg
   email: osun
-  interests: Vision-Language-Action Model
+  interests: Vision-Language-Action Model, World Model
