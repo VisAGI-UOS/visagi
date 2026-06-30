@@ -44,7 +44,7 @@ Computer Vision, Multimodal AI, Agentic & Embodied AI 분야를 중심으로 연
 <p>
 <!-- 이외에도 Agentic AI, Physical AI 등 최근 새롭게 부상하는 인공지능 분야에 대한 도전을 적극 장려하며, 다양한 주제의 연구를 원활히 수행할 수 있도록 멘토링과 지원을 제공하고자 합니다. -->
 이외에도 최근 새롭게 부상하는 인공지능 분야에 대한 도전을 적극 장려합니다. <br>
-모든 구성원이 유의미한 연구 성과를 도출할 수 있도록 함께 고민하고 지도하며, 협력을 통해 다양한 성장 기회를 제공하고 있습니다. <br>
+<b>모든 구성원이 유의미한 연구 성과를 도출할 수 있도록 함께 고민하고 지도하며, 협력을 통해 다양한 성장 기회를 제공하고 있습니다.</b> <br>
 유사한 주제에 관심이 있고 함께 성장하고자 하는 예비 연구자 여러분의 많은 지원을 환영합니다.
 </p>
 </div>
@@ -59,7 +59,7 @@ Computer Vision, Multimodal AI, Agentic & Embodied AI 분야를 중심으로 연
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 10px;">• 본인에 대한 간단한 소개</li>
   <li style="margin-bottom: 10px;">• 인공지능 관련 경험 (수업, 프로젝트 등)</li>
-  <li style="margin-bottom: 10px;">• 관심 연구 분야</li>
+  <li style="margin-bottom: 10px;">• 관심 분야</li>
   <li style="margin-bottom: 10px;">• 향후 목표</li>
   <li style="margin-bottom: 10px;">• 면담 가능 시간</li>
 </ul>
