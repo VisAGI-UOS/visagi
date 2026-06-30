@@ -9,7 +9,8 @@ permalink: /joining_us/
 
 <div class="well" style="padding: 20px; margin-bottom: 30px; box-shadow: none;">
 <p style="margin-bottom: 20px;">
-우리 연구실은 인공지능 분야 세계 최고 수준의 학술대회 (Top-tier AI conferences) 및 이에 준하는 저널에 연구 성과를 발표하는 것을 최우선 목표로 하고 있습니다. 주요 목표 학회는 다음과 같습니다:
+우리 연구실은 인공지능 분야 세계 최고 수준의 학술대회 (Top-tier AI conferences) 및 이에 준하는 저널에 연구 성과를 발표하는 것을 최우선 목표로 하고 있습니다. <br>
+주요 목표 학회는 다음과 같습니다:
 </p>
 
 <div style="margin-bottom: 20px;">
@@ -23,7 +24,7 @@ permalink: /joining_us/
 
 <p style="margin-bottom: 20px;">
 Computer Vision, Multimodal AI, Agentic & Embodied AI 분야를 중심으로 연구하고 있습니다. <br>
-특히 시각, 언어, 행동 및 다양한 모달리티를 통합적으로 이해하고 생성하며, 실제 문제 해결로 이어질 수 있는 인공지능 기술에 관심을 두고 있습니다. <br>
+특히 시각, 언어, 행동 등 다양한 정보를 복합적으로 이해·생성하고, 실제 문제 해결로 이어지는 인공지능 기술에 관심을 두고 있습니다.<br>
 현재 연구실 구성원들과 함께 관심을 가지고 진행 중인 연구 분야는 다음과 같은 키워드로 요약할 수 있습니다.
 </p>
 

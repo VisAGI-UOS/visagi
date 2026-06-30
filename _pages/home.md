@@ -37,10 +37,10 @@ permalink: /
 <strong style="color: #004094;">Welcome to the Visual and General Intelligence (VisAGI) Lab!</strong> At the VisAGI Lab, we envision building general and robust AI systems that can be deployed to solve a wide range of real-world problems, ultimately progressing toward Artificial General Intelligence (AGI). Our long-term academic journey starts with a vision-centric approach, focusing on computer vision as the first step toward building more general and robust AI systems.
 
 Our current research interests include, but are not limited to, the following areas:
+- **Multimodal Generative Models**: Exploring state-of-the-art generative models, including multimodal large language models and diffusion models, that can generate, understand, and reason across multiple modalities.
+- **Agentic & Physical AI**: Building autonomous agents capable of multi-step reasoning, long-term planning, and tool-augmented execution to solve complex tasks.
 - **Robust Visual Perception Models**: Designing models that can accurately perceive and interpret visual data (e.g, image/video/3D), even under challenging conditions.
-- **Multimodal Generative Models**: Exploring state-of-the-art generative models, including diffusion models and multimodal large language models, that can generate, understand, and reason across multiple modalities.
 - **Data-Centric AI**: Developing methodologies that emphasize the strategic collection, curation, and utilization of data, which we see as essential for the next generation of AI breakthroughs.
-- **Agentic AI**: Building autonomous agents capable of multi-step reasoning, long-term planning, and tool-augmented execution to solve complex tasks.
 
 Through these research directions, we strive to take meaningful steps toward realizing Artificial General Intelligence.
 
