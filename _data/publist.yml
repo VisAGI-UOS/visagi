@@ -5,7 +5,7 @@
 
 - title: "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"
   year: 2026
-  authors: Myungchul Kim, Kwanyong Park\†, Junmo Kim\†, In So Kweon\† († corresponding authors)
+  authors: Myungchul Kim, Kwanyong Park†, Junmo Kim†, In So Kweon† († corresponding authors)
   venue: <b>ECCV 2026</b>
 
 - title: "HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model"
@@ -21,7 +21,7 @@
 
 - title: "Infrastructure-Assisted Defensive Forecasting of Latent Traffic Hazards from Uncalibrated CCTV"
   year: 2026
-  authors: Dohyun Kim, Junyong Lhim, Kwanyong Park
+  authors: Dohyun Kim\*, Junyong Lhim\*, Kwanyong Park
   venue: ICML 2026 Workshop
 
 - title: "Streamlining Human–Robot Interaction: Integrating LLM-Based Planning into Modular Robotic Frameworks"
