@@ -1,3 +1,9 @@
+- img: emnlp_2026.png
+  year: 2026
+  month: Aug
+  category: Publication
+  description: "Our paper on vision-language grounding has been accepted to **EMNLP 2026** (Main)."
+
 - img: eccv26.png
   year: 2026
   month: Jun
@@ -17,11 +23,11 @@
   category: Research Grant
   description: "Our lab has been selected for the **Young Scientist Grant** from the National Research Foundation of Korea (**NRF**), supporting our research on 'Agentic AI' and 'Self-evolving Multimodal AI.'"
 
-- img: welcome.png
-  year: 2026
-  month: Mar
-  category: New Members
-  description: "TaeYang Jeong joined our lab as an undergraduate intern. Welcome!"
+# - img: welcome.png
+#   year: 2026
+#   month: Mar
+#   category: New Members
+#   description: "TaeYang Jeong joined our lab as an undergraduate intern. Welcome!"
 
 - img: cvpr_2026.jpg
   year: 2026
@@ -29,11 +35,11 @@
   category: Publication
   description: "Our paper on safety of vision-language models has been accepted to **CVPR 2026 (Findings)**."
 
-- img: welcome.png
-  year: 2026
-  month: Jan
-  category: New Members
-  description: "Chaeyun Park and Hyunjun Cho joined our lab as undergraduate interns. Welcome!"
+# - img: welcome.png
+#   year: 2026
+#   month: Jan
+#   category: New Members
+#   description: "Chaeyun Park and Hyunjun Cho joined our lab as undergraduate interns. Welcome!"
 
 - img: KAIST_logo.jpg
   year: 2025
@@ -41,11 +47,11 @@
   category: Invited Talk
   description: "Prof. Park was invited to give a talk at **KAIST**."
 
-- img: welcome.png
-  year: 2025
-  month: Sep
-  category: New Members
-  description: "Donghyeop Woo joined our lab as an undergraduate intern. Welcome!"
+# - img: welcome.png
+#   year: 2025
+#   month: Sep
+#   category: New Members
+#   description: "Donghyeop Woo joined our lab as an undergraduate intern. Welcome!"
 
 - img: iccv2025.svg
   year: 2025
@@ -77,11 +83,11 @@
 #   category: New Members
 #   description: "Junyong Lhim joined our lab as an undergraduate intern. Welcome!"
 
-- img: welcome.png
-  year: 2025
-  month: May
-  category: New Members
-  description: "Juhyun Park joined our lab as an undergraduate intern. Welcome!"
+# - img: welcome.png
+#   year: 2025
+#   month: May
+#   category: New Members
+#   description: "Juhyun Park joined our lab as an undergraduate intern. Welcome!"
 
 - img: msit.svg
   year: 2025
@@ -101,11 +107,11 @@
   category: Technology Transfer
   description: "Our KOALA model has been **successfully transferred to a gaming startup** to support their game development."
 
-- img: welcome.png
-  year: 2025
-  month: Mar
-  category: New Members
-  description: "Dohyun Kim and Wonjun Heo joined our lab as undergraduate interns. Welcome!"
+# - img: welcome.png
+#   year: 2025
+#   month: Mar
+#   category: New Members
+#   description: "Dohyun Kim and Wonjun Heo joined our lab as undergraduate interns. Welcome!"
 
 - img: logo_uos.png
   year: 2025

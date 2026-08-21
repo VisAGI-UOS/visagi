@@ -1,6 +1,11 @@
+- title: "Learning Disentangled and Hierarchical Representation for Linguistic Compositionality in Language-based Object Detection"
+  year: 2026
+  authors: Sojung An\*, Kwanyong Park\*, Yong Jae Lee, Donghyun Kim
+  venue: <b>EMNLP 2026</b>
+
 - title: "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"
   year: 2026
-  authors: Myungchul Kim, Kwanyong Park†, Junmo Kim†, In So Kweon† († corresponding authors)
+  authors: Myungchul Kim, Kwanyong Park\†, Junmo Kim\†, In So Kweon\† († corresponding authors)
   venue: <b>ECCV 2026</b>
 
 - title: "HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model"
@@ -10,6 +15,11 @@
   link: https://arxiv.org/abs/2506.04704
 
 - title: "Benchmarking Multimodal Personalized Reasoning of Vision-Language Models in the Wild"
+  year: 2026
+  authors: Je-Seok Ham, Hyunseo Lee, Yongseon Lee, Kwanyong Park, Jinyoung Moon, Changick Kim
+  venue: ECCV 2026 Workshop
+
+- title: "Infrastructure-Assisted Defensive Forecasting of Latent Traffic Hazards from Uncalibrated CCTV"
   year: 2026
   authors: Dohyun Kim, Junyong Lhim, Kwanyong Park
   venue: ICML 2026 Workshop
