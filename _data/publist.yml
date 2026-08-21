@@ -1,6 +1,6 @@
 - title: "Learning Disentangled and Hierarchical Representation for Linguistic Compositionality in Language-based Object Detection"
   year: 2026
-  authors: Sojung An\*, Kwanyong Park\*, Yong Jae Lee, Donghyun Kim
+  authors: Sojung An\*, Kwanyong Park\*, Yong Jae Lee, Donghyun Kim (\* equal contribution)
   venue: <b>EMNLP 2026</b>
 
 - title: "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"
@@ -14,14 +14,14 @@
   venue: <b>CVPR 2026 (Findings)</b>
   link: https://arxiv.org/abs/2506.04704
 
-- title: "Benchmarking Multimodal Personalized Reasoning of Vision-Language Models in the Wild"
+- title: "Infrastructure-Assisted Defensive Forecasting of Latent Traffic Hazards from Uncalibrated CCTV"
   year: 2026
   authors: Je-Seok Ham, Hyunseo Lee, Yongseon Lee, Kwanyong Park, Jinyoung Moon, Changick Kim
   venue: ECCV 2026 Workshop
 
-- title: "Infrastructure-Assisted Defensive Forecasting of Latent Traffic Hazards from Uncalibrated CCTV"
+- title: "Benchmarking Multimodal Personalized Reasoning of Vision-Language Models in the Wild"
   year: 2026
-  authors: Dohyun Kim\*, Junyong Lhim\*, Kwanyong Park
+  authors: Dohyun Kim\*, Junyong Lhim\*, Kwanyong Park (\* equal contribution)
   venue: ICML 2026 Workshop
 
 - title: "Streamlining Human–Robot Interaction: Integrating LLM-Based Planning into Modular Robotic Frameworks"
