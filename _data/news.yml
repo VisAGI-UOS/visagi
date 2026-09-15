@@ -1,3 +1,9 @@
+- img: etri.png
+  year: 2026
+  month: April
+  category: Research Grant
+  description: "We have launched a new research project on 'Vision-Language Models with Geo-Diverse Safety Standards', with funding support from ETRI.'"
+
 - img: emnlp_2026.png
   year: 2026
   month: Aug
@@ -14,7 +20,7 @@
   year: 2026
   month: April
   category: Research Grant
-  description: "We have launched a research project on 'Vision-Language-Action Models for Digital Environments (e.g., GUI)', with support from ETRI.'"
+  description: "We have launched a research project on 'Vision-Language-Action Models for Digital Environments (e.g., GUI)', with funding support from ETRI.'"
 
 
 - img: nrf.svg
