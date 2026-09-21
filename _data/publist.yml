@@ -18,15 +18,23 @@
   authors: Juhyun Park, Kwanyong Park
   venue: Under Review
 
+- title: "SoccerNet 2026 Challenges Results"
+  year: 2026
+  authors: SoccerNet 2026 Challenges Contributors (incl. Wonjun Heo, Kwanyong Park)
+  venue: ACCV 2026
+  link: https://arxiv.org/abs/2607.07320
+
 - title: "Learning Disentangled and Hierarchical Representation for Linguistic Compositionality in Language-based Object Detection"
   year: 2026
   authors: Sojung An\*, Kwanyong Park\*, Yong Jae Lee, Donghyun Kim (\* equal contribution)
   venue: <b>EMNLP 2026</b>
+  link: https://arxiv.org/abs/2509.24192
 
 - title: "ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"
   year: 2026
   authors: Myungchul Kim, Kwanyong Park†, Junmo Kim†, In So Kweon† († corresponding authors)
   venue: <b>ECCV 2026</b>
+  link: https://arxiv.org/abs/2604.12762
 
 - title: "HoliSafe: Holistic Safety Benchmarking and Modeling for Vision-Language Model"
   year: 2026
