@@ -13,15 +13,15 @@
   authors: Junyong Lhim, Dohyun Kim, Kwanyong Park
   venue: Under Review
 
-- title: "A Systematic Benchmark for Evaluating Multimodal Personalized Reasoning in Vision-Language Models"
-  year: Under Review
-  authors: Dohyun Kim\*, Junyong Lhim\*, Kwanyong Park (\* equal contribution)
-  venue: Under Review
-
 - title: "A Training-Free Framework for Visual Intention Grounding via Dual-Guided Reasoning"
   year: Under Review
   authors: Juhyun Park, Kwanyong Park
   venue: Under Review
+
+- title: "A Systematic Benchmark for Evaluating Multimodal Personalized Reasoning in Vision-Language Models"
+  year: 2027
+  authors: Dohyun Kim\*, Junyong Lhim\*, Kwanyong Park (\* equal contribution)
+  venue: WACV 2027
 
 - title: "SoccerNet 2026 Challenges Results"
   year: 2026
